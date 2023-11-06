@@ -11,12 +11,23 @@ h1 {
     background-image: url('Resources/Images/pattern.jpeg');
 }
 
-h2.brushes {
+h2.heading {
     font-family: 'Helvetica';
     font-size: 32px;
     font-weight: bold;
     color: white;
+}
+
+div.brushes-heading {
     background-color: mediumspringgreen;
+}
+
+div.frames-heading {
+    background-color: lightcoral;
+}
+
+div.paint-heading {
+    background-color: skyblue;
 }
 
 span.price-text {
