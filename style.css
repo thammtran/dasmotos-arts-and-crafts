@@ -18,3 +18,9 @@ h2.brushes {
     color: white;
     background-color: mediumspringgreen;
 }
+
+span.price-text {
+    font-family: 'Helvetica';
+    font-weight: bold;
+    color: blue;
+}
